@@ -1,0 +1,13 @@
+* {
+  outline: 0;
+}
+
+.form-cotrol {
+  width: 300px;
+  background-color: #130b0b;
+  color: #fff;
+}
+
+body {
+  background-color: #f2f2f2;
+}
